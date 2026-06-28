@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning Software Engineer<br>🎯 Goals: -Adaptability; -Communication; -Efficiency; -Organization <br>🎲 Fun fact: I'm a former soldier who left the barracks to dedicate myself to my dream of becoming a Software Developer.</p>
+<p data-importer="text" align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning Software Engineer<br>🎯 Goals: Adaptability; Communication; Efficiency; Organization <br>🎲 Fun fact: I'm a former soldier who left the barracks to dedicate myself to my dream of becoming a Software Developer.</p>
 
 ###
 
